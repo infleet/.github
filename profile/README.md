@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, welcome to Infleet
+
+## Our values
+
+- Free to be and do
+- 1% better every day
+- From humman to humman
 
 <!--
 
