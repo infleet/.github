@@ -4,7 +4,7 @@
 
 - Free to be and do
 - 1% better every day
-- From humman to humman
+- From human to human
 
 <!--
 
