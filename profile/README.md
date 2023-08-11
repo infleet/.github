@@ -2,9 +2,9 @@
 
 ## Our values
 
-- Free to be and do
+- Freedom to be and to do
 - 1% better every day
-- From human to human
+- Human to human
 
 <!--
 
